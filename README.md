@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,ts,nestjs,pinia,postman,sequelize,github,git,docker,nodejs)](https://skillicons.dev)
 
 ---
 
