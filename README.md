@@ -12,11 +12,7 @@ As a Junior Full Stack Developer, I have experience in building modern web appli
 
 ## 🚀 Tech Stack & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills" />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,ts,nestjs,pinia,postman,sequelize,github,git,docker,nodejs)](https://skillicons.dev)
 
 ---
 
