@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://herokuapp.com..." alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there! 👋 I'm Ricardo Rodrigues</h1>
+<p align="center">⚙️ <b>Junior Full Stack Developer @ Irmãos Gonçalves</b> ⚙️</p>
+
+---
 
 As a Junior Full Stack Developer, I have experience in building modern web applications and working with databases. My passion lies in creating efficient, maintainable, and scalable systems using the JavaScript and TypeScript ecosystem.
 
@@ -12,7 +13,9 @@ As a Junior Full Stack Developer, I have experience in building modern web appli
 
 ## 🚀 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,ts,nestjs,pinia,postman,sequelize,github,git,docker,nodejs)](https://skillicons.dev)
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,ts,nestjs,pinia,postman,sequelize,github,git,docker,nodejs)](https://skillicons.dev)
+</div>
 
 ---
 
@@ -20,16 +23,10 @@ As a Junior Full Stack Developer, I have experience in building modern web appli
 
 <div align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://skillicons.dev" width="50" height="50" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ricardorodrigues900000@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://skillicons.dev" width="50" height="50" alt="Email" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" alt="Footer Wave"/>
-</p>
