@@ -3,7 +3,7 @@
 
 ---
 
-As a Junior Full Stack Developer, I have experience in building modern web applications and working with databases. My passion lies in creating efficient, maintainable, and scalable systems using the JavaScript and TypeScript ecosystem.
+As a Junior Full Stack Developer, I have experience in building modern web applications and working with databases. I focus on building practical and efficient web applications, always aiming to improve performance and code quality.
 
 * 🚀 I’m currently working as a **Junior Developer** at **Irmãos Gonçalves**
 * ⚡ I use daily: `.js`, `.ts`, `.vue`, `.sql`
