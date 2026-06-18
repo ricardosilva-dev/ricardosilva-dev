@@ -1,37 +1,31 @@
-# Hi there, I'm Ricardo! 👋
+<h1 align="center">I'm Ricardo Rodrigues</h1>
 
-I work as a **Junior Full Stack Developer** at **Irmãos Gonçalves**, focusing on the JavaScript/TypeScript ecosystem and databases.
+<p align="left">As a Junior Full Stack Developer, I have experience in building modern web applications and working with databases. My passion lies in creating efficient, maintainable, and scalable systems using the JavaScript and TypeScript ecosystem.</p>
 
-## 🛠️ My Tech Stack
+* 🚀 I’m currently working as a **Junior Developer** at **Irmãos Gonçalves**
+* ⚡ I use daily: `.js`, `.ts`, `.vue`, `.sql`
+* 💬 Ask me about **Vue.js, NestJS, and Node.js**
 
-### Front-end
-<p>
-  <img src="https://simpleicons.org" width="40" height="40" alt="JavaScript" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="TypeScript" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="Vue.js" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="Pinia" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="Axios" />
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
 </p>
 
-### Back-end & Database
-<p>
-  <img src="https://simpleicons.org" width="40" height="40" alt="Node.js" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="NestJS" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="SQL Server" />
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://simpleicons.org" width="40" height="40" alt="Git" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="GitHub" />
-  <img src="https://simpleicons.org" width="40" height="40" alt="Docker" />
+### 🗄️ Database & Communication
+<p align="left">
+  <!-- Ícones extras que não estão no pacote principal agrupados no mesmo estilo -->
+  <img src="https://github.com" width="48" height="48" alt="SQL Server" />&nbsp;
+  <img src="https://github.com" width="48" height="48" alt="Axios" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect with me
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
+* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* ✉️ **Email:** [ricardorodrigues900000@gmail.com](mailto:ricardorodrigues900000@gmail.com)
