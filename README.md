@@ -20,12 +20,4 @@ As a Junior Full Stack Developer, I have experience in building modern web appli
 
 ## 🌐 Connect with me
 
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev" width="50" height="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ricardorodrigues900000@gmail.com">
-    <img src="https://skillicons.dev" width="50" height="50" alt="Email" />
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev)](https://linkedin.com) &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://skillicons.dev)](mailto:ricardorodrigues900000@gmail.com)
