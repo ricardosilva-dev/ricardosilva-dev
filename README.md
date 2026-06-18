@@ -13,9 +13,8 @@ As a Junior Full Stack Developer, I have experience in building modern web appli
 
 ## 🚀 Tech Stack & Tools
 
-<div align="center">
   [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,ts,nestjs,pinia,postman,sequelize,github,git,docker,nodejs)](https://skillicons.dev)
-</div>
+
 
 ---
 
