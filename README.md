@@ -16,13 +16,6 @@
   </a>
 </p>
 
-### 🗄️ Database & Communication
-<p align="left">
-  <!-- Ícones extras que não estão no pacote principal agrupados no mesmo estilo -->
-  <img src="https://github.com" width="48" height="48" alt="SQL Server" />&nbsp;
-  <img src="https://github.com" width="48" height="48" alt="Axios" />
-</p>
-
 ---
 
 ## 🌐 Connect with me
