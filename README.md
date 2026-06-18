@@ -1,8 +1,8 @@
-# Olá, eu sou o Ricardo! 👋
+# Hi there, I'm Ricardo! 👋
 
-Atuo como **Desenvolvedor Júnior** no grupo **Irmãos Gonçalves**, focado no ecossistema JavaScript/TypeScript e banco de dados.
+I work as a **Junior Full Stack Developer** at **Irmãos Gonçalves**, focusing on the JavaScript/TypeScript ecosystem and databases.
 
-## 🛠️ Minhas Tecnologias (My Stack)
+## 🛠️ My Tech Stack
 
 ### Front-end
 ![JavaScript](https://shields.io)
@@ -11,21 +11,21 @@ Atuo como **Desenvolvedor Júnior** no grupo **Irmãos Gonçalves**, focado no e
 ![Pinia](https://shields.io)
 ![Axios](https://shields.io)
 
-### Back-end & Banco de Dados
+### Back-end & Database
 ![NodeJS](https://shields.io)
 ![NestJS](https://shields.io)
 ![SQL Server](https://shields.io)
 
-### Ferramentas & DevOps
+### Tools & DevOps
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
 ![Docker](https://shields.io)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
