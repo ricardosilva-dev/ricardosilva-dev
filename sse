@@ -1,0 +1,157 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+  
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell",
+      },
+      "Command Prompt": {
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "args": [],
+        "icon": "terminal-cmd",
+      },
+      "Git Bash": {
+        "path": "C:\\Users\\81180-RICARDO\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+        "args": ["--login", "-i"],
+      },
+    },
+  
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+  
+    "editor.wordWrap": "bounded",
+    "editor.renderWhitespace": "boundary",
+    "editor.inlineSuggest.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "editor.guides.bracketPairs": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+  
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+  
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": [
+            "variable.other.readwrite.alias",
+            "meta.import variable.other.readwrite",
+            "support.type",
+            "entity.name.type",
+          ],
+          "settings": {
+            "foreground": "#DA2973",
+          },
+        },
+        {
+          "scope": "keyword",
+          "settings": {
+            "foreground": "#ff2e97",
+            "fontStyle": "bold",
+          },
+        },
+        {
+          "scope": "string",
+          "settings": {
+            "foreground": "#ffe66d",
+          },
+        },
+        {
+          "scope": "variable",
+          "settings": {
+            "foreground": "#00ffcc",
+          },
+        },
+        {
+          "scope": "entity.name.function",
+          "settings": {
+            "foreground": "#00bfff",
+            "fontStyle": "bold",
+          },
+        },
+        {
+          "scope": "constant.numeric",
+          "settings": {
+            "foreground": "#bd93f9",
+          },
+        },
+        {
+          "scope": "comment",
+          "settings": {
+            "foreground": "#5c6370",
+            "fontStyle": "italic",
+          },
+        },
+        {
+          "scope": "type",
+          "settings": {
+            "foreground": "#ff9f1c",
+          },
+        },
+      ],
+    },
+  
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+  
+    "git.autofetch": true,
+  
+    "github-enterprise.uri": "https://awd.ghe.com",
+  
+    "github.copilot.enable": {
+      "*": false,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    },
+  
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+  
+    "workbench.browser.pageZoom": "75%",
+    "workbench.colorTheme": "Bearded Theme Vivid Black",
+  
+    "breadcrumbs.enabled": false,
+  
+    "powermode.enabled": true,
+  
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+  
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilotcli:claude-haiku-4.5",
+  
+    "chatgpt.localeOverride": "pt-BR",
+    "chat.viewSessions.orientation": "stacked",
+  
+    "workbench.experimental.enableProposedApi": true,
+    "vscode_custom_css.imports": [
+      "file:///c:/Users/81180-RICARDO/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js",
+    ],
+    "vscode-pets.petColor": "black",
+    "vscode-pets.petSize": "small",
+    "vscode-pets.petType": "skeleton",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "vscode-pets.throwBallWithMouse": true,
+    "workbench.settings.applyToAllProfiles": ["vscode-pets.disableEffects"],
+    "powermode.shake.enabled": false,
+    "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": true,
+    "powermode.combo.counterEnabled": "hide",
+  }
+  
